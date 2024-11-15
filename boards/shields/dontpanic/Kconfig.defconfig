@@ -1,0 +1,9 @@
+# Copyright (c) 2024 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if SHIELD_dontpanic
+
+config ZMK_KEYBOARD_NAME
+    default "dontpanic"
+
+endif
