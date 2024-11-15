@@ -1,0 +1,4 @@
+name: zmk-keyboards-10x2
+build:
+  settings:
+     board_root: .
