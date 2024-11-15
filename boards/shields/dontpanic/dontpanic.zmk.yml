@@ -1,0 +1,8 @@
+file_format: "1"
+id: dontpanic
+name: dontpanic
+type: shield
+url: https://github.com/miketronic/dontpanic
+requires: [waveshare_rp2040_zero]
+features:
+  - keys
